@@ -1,5 +1,5 @@
 import React from 'react';
-import { FeaturedCars } from '../components/FeaturedCars';
+import FeaturedCars from '../components/FeaturedCars';
 
 const NewCarsPage = () => {
     return (
